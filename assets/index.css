@@ -1,0 +1,7 @@
+:root {
+  --sidebar-width: 300px;
+  --tint-blue: rgb(0, 128, 255);
+  --audio-progress: 0px;
+  --audio-controls-cont-bg: rgb(147, 161, 184);
+  --visualizer-bg: rgb(216, 231, 244);
+}
